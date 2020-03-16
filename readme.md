@@ -2,7 +2,11 @@
 
 ## Usage
 
-pip install -r requirements.txt
+pip install -r requirements-win.txt
+
+or
+
+pip install -r requirements-mac.txt
 
 python boot.py
 
