@@ -1,0 +1,7 @@
+pygame
+wxpython
+winpaths
+pywin32
+numpy
+numpy-quaternion
+pyinstaller

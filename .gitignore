@@ -1,0 +1,7 @@
+*.pyc
+*.log
+data/options.dat
+__pycache__
+build/
+dist/
+*.spec
