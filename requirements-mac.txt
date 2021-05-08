@@ -5,3 +5,4 @@ numpy-quaternion
 pyinstaller
 pyobjc
 appscript
+autopep8

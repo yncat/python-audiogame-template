@@ -5,3 +5,4 @@ pywin32
 numpy
 numpy-quaternion
 pyinstaller
+autopep8
