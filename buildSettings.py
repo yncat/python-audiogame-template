@@ -3,5 +3,5 @@
 # Build settings
 # Copyright (C) 2020 Yukio Nozawa <personal@nyanchangames.com>
 
-GAME_NAME="Template"
-GAME_VERSION=0.1
+GAME_NAME = "Template"
+GAME_VERSION = 0.1

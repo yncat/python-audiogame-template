@@ -8,10 +8,14 @@ import sys
 import appMain
 import globalVars
 
+
 def main():
-	app=appMain.Application()
-	app.initialize()
-	globalVars.app=app
-	app.run()
+    app = appMain.Application()
+    app.initialize()
+    globalVars.app = app
+    app.run()
+
+
 #global schope
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    main()
